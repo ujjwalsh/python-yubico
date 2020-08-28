@@ -12,7 +12,8 @@ python:
 cache:
   directories:
     - $HOME/.cache/pip
-
+arch:
+  - ppc64le
 addons:
   apt:
     packages:
